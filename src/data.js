@@ -14,6 +14,9 @@ const data = [
   { name: "Sparky Simon", image: "simon-box.JPEG" },
   { name: "Supersonic Simon", image: "simon-camping.JPEG" },
   { name: "Superman Simon", image: "simon-game.JPEG" },
+  { name: "Chris - the Legend!", image: "Chris-fish.jpg" },
+  { name: "Captain Chris", image: "Chris-hockey.jpg" },
+  { name: "Farmer Chris", image: "Chris-harvest.jpg" },
 ];
 
 export default data;

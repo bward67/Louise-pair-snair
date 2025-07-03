@@ -14,6 +14,9 @@ import Louise from "./assets/louise.JPEG";
 import SimonBox from "./assets/simon-box.JPEG";
 import SimonCamping from "./assets/simon-camping.JPEG";
 import SimonGame from "./assets/simon-game.JPEG";
+import ChrisFish from "./assets/Chris-fish.jpg";
+import ChrisHarvest from "./assets/Chris-harvest.jpg";
+import ChrisHockey from "./assets/Chris-hockey.jpg";
 
 const images = {
   "all-22.JPEG": All2,
@@ -32,6 +35,9 @@ const images = {
   "simon-box.JPEG": SimonBox,
   "simon-camping.JPEG": SimonCamping,
   "simon-game.JPEG": SimonGame,
+  "Chris-fish.jpg": ChrisFish,
+  "Chris-harvest.jpg": ChrisHarvest,
+  "Chris-hockey.jpg": ChrisHockey,
 };
 
 export default images;
